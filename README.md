@@ -1,7 +1,7 @@
 
 ## Angular Material Responsive Components
 
-![Angular Material In Depth](https://icedrive.net/s/77Rh4F1TRGuR2F9Pf9VTyBCkX765)
+![angular-material-responsive-components](https://icedrive.net/s/77Rh4F1TRGuR2F9Pf9VTyBCkX765.png)
 
 
 # How To install this repository
